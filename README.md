@@ -13,7 +13,7 @@ The table below provides an overview of the problems I have solved.
 | Problem # | Topic / Title                | Language | Difficulty |       Solution Link        |
 | :-------: | :--------------------------- | :------: | :--------: | :------------------------: |
 |    #1     | Two Sum                      |  `C++`   |   `Easy`   | [Solution](./Problem_001/) |
-|    #2     | Product of Array Except Self |  `C++`   |   `Hard`   |       🚧 In Progress       |
+|    #2     | Product of Array Except Self |  `C++`   |   `Hard`   | [Solution](./Problem_002/) |
 |    ...    | ...                          |   ...    |    ...     |            ...             |
 
 ---
