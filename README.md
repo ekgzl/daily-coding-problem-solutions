@@ -6,22 +6,19 @@ Each solution is written in various languages (usually C++ or JavaScript), depen
 
 ---
 
-##  Progress Tracker
+## Progress Tracker
 
 The table below provides an overview of the problems I have solved.
 
-| Problem # | Topic / Title                      | Language   | Difficulty | Solution Link                |
-| :-------: | :--------------------------------- | :--------: | :--------: | :--------------------------: |
-|    #1     | Two Sum                            | `Python`   | `Easy`     | [Solution](./Problem_001/)   |
-|    #2     | Product of Array Except Self       | `Python`   | `Hard`     | [Solution](./Problem_002/)   |
-|    #3     | Serialize and Deserialize a Tree   | `JavaScript`| `Medium`   | [Solution](./Problem_003/)   |
-|    #4     | Find the First Missing Positive    | `Python`   | `Hard`     | 🚧 In Progress              |
-|    ...    | ...                                |    ...     |    ...     | ...                          |
+| Problem # | Topic / Title                | Language | Difficulty |       Solution Link        |
+| :-------: | :--------------------------- | :------: | :--------: | :------------------------: |
+|    #1     | Two Sum                      |  `C++`   |   `Easy`   | [Solution](./Problem_001/) |
+|    #2     | Product of Array Except Self |  `C++`   |   `Hard`   |       🚧 In Progress       |
+|    ...    | ...                          |   ...    |    ...     |            ...             |
 
 ---
 
-
-##  How to Run
+## How to Run
 
 Each problem is contained within its own directory. To run a specific solution:
 

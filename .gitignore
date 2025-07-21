@@ -1,0 +1,60 @@
+# C++ ve JavaScript kodlama problemleri için genel .gitignore dosyası
+
+### C++ ###
+# Derlenmiş nesne dosyaları
+*.o
+*.obj
+
+# Ön derlenmiş başlıklar
+*.pch
+
+# Statik kütüphaneler
+*.lib
+*.a
+
+# Dinamik kütüphaneler
+*.dll
+*.so
+
+# Çalıştırılabilir dosyalar
+*.exe
+*.out
+*.app
+
+# Build çıktı klasörleri
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Visual Studio ve VS Code dosyaları
+.vs/
+*.suo
+*.user
+.vscode/
+
+### JavaScript ###
+# Bağımlılıklar
+/node_modules/
+
+# Build çıktı klasörleri
+/dist/
+/build/
+
+# Log dosyaları
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ortam değişkenleri dosyaları
+.env
+.env.local
+.env.*.local
+
+### İşletim Sistemi ve Diğerleri ###
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
