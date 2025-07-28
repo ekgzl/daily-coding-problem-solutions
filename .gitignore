@@ -4,7 +4,7 @@
 # Derlenmiş nesne dosyaları
 *.o
 *.obj
-
+*.exe
 # Ön derlenmiş başlıklar
 *.pch
 
